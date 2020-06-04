@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/rotor.png</file>
+        <file>qml_my_components/Button_Comutator.qml</file>
+        <file>qml_my_components/Button_Input.qml</file>
+        <file>qml_my_components/Led_Output.qml</file>
+        <file>qml_my_components/Rotor.qml</file>
+        <file>qml_my_components/Keyboard_Comutator.qml</file>
+        <file>qml_my_components/Keyboard_input.qml</file>
+        <file>qml_my_components/Keyboard_output.qml</file>
+        <file>qml_my_components/Menu_Bar.qml</file>
+        <file>qml_my_components/Rotors_selection.qml</file>
+        <file>qml_my_components/Rotors_view.qml</file>
+    </qresource>
+</RCC>
